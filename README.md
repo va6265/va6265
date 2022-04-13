@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @va6265
+- 👋 Hi, I’m Vaibhav Agarwal
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
